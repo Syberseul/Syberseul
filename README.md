@@ -1,6 +1,6 @@
-	Meticulous front-end developer with full of passion and have been working on some front-end based projects.
-	Good team player based on two-years ran a small business
-	Good self-management abilities to work under pressure.
+- Meticulous front-end developer with full of passion and have been working on some front-end based projects.
+- Good team player based on two-years ran a small business
+-	Good self-management abilities to work under pressure.
 Willingness to share ideas and make contributions within teams.
 
 
